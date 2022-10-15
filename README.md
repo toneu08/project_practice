@@ -1,5 +1,7 @@
-# project_practice
-这是一个项目练习仓库，里面都是一些小的demo（非完整版）
+这里将收集我做过的所有的前端demo😄😄😄
+在这里记录一下自己的编程日记！
+
+关于运行项目：
 download之后，请将项目里的node_modules文件夹整个删除，
 然后命令行进入根目录，运行npm install
 安装好依赖后，运行npm run dev
